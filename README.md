@@ -2,7 +2,7 @@
 
 This repository contains code and resources for generating anime characters using Deep Convolutional Generative Adversarial Networks (DCGANs) and Keras.
 
-##Teknologi yang Digunakan
+## Teknologi yang Digunakan
 - Pandas: Digunakan untuk mengelola dan memanipulasi data dalam format tabel (DataFrame), yang memungkinkan operasi seperti pembersihan data, penggabungan data, dan transformasi yang efisien.
 - NumPy: Digunakan untuk operasi matematis, terutama manipulasi array, yang penting untuk komputasi numerik di machine learning.
 = scikit-learn (sklearn): Library yang menyediakan fungsi terkait machine learning dan pipeline, termasuk preprocessing, evaluasi, dan fitur untuk membangun workflow machine learning yang efisien.
@@ -11,7 +11,7 @@ This repository contains code and resources for generating anime characters usin
 - Keras: Digunakan untuk memuat dataset standar dan menyediakan API yang lebih mudah digunakan dalam pengembangan model neural network.
 - TensorFlow: Library machine learning yang kuat untuk membangun, melatih, dan mengoptimalkan neural network, sering digunakan bersamaan dengan Keras untuk berbagai operasi deep learning.
   
-##Analisis Teknologi
+## Analisis Teknologi
 -Pandas: Dengan struktur data DataFrame yang menyerupai tabel database, Pandas memungkinkan manipulasi data yang mudah dan efisien. Ini sangat penting untuk proses ETL (Extract, Transform, Load) dalam machine learning, memastikan data terstruktur dan bersih sebelum digunakan untuk pelatihan model.
 - NumPy: Fungsi array dan operasi matematis di NumPy dirancang untuk performa tinggi, memungkinkan manipulasi dan komputasi data yang cepat. Ini adalah dasar dari berbagai perhitungan matematika dalam pipeline machine learning dan mendukung operasi data di library lain seperti Pandas dan TensorFlow.
 - scikit-learn (sklearn): Memiliki fungsi untuk membangun pipeline machine learning yang memungkinkan pengelolaan tahapan preprocessing, pelatihan, dan evaluasi secara modular dan efisien. Sklearn mempermudah analisis kinerja model dengan metrik evaluasi yang terintegrasi.
